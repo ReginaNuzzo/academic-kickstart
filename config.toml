@@ -64,9 +64,8 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "Regina.Nuzzo@gmail.com"
-  address = "Gallaudet University, 800 Florida Ave NE, Washington DC 20002"
+  address = ""
   office_hours = """
-  """
   phone = ""
   skype = ""
   telegram = ""
