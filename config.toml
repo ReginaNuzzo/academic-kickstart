@@ -15,7 +15,7 @@ title = "News o' Regina"
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; Regina Nuzzo 2018"
 
-theme = "hugo-academic"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -93,7 +93,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 0
   map_api_key = ""
   latitude = "38.910978"
   longitude = "-76.992179"
@@ -109,7 +109,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "playfair"
+  font = "regina"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
@@ -297,14 +297,19 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Writing"
-  url = "#writing"
+  name = "Bio"
+  url = "/bio/"
   weight = 2
 
 [[menu.main]]
-  name = "Talks"
-  url = "talks"
+  name = "Writing"
+  url = "#writing"
   weight = 3
+
+[[menu.main]]
+    name = "Talks"
+    url = "#talks"
+    weight = 4
 
 # [[menu.main]]
  # name = "Projects"
