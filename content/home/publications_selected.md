@@ -4,10 +4,10 @@
 # `selected = true` in their `+++` front matter.
 widget = "publications_selected"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-12-07T00:00:00
 
-title = "Selected Publications"
-subtitle = ""
+title = "Selected Writing"
+subtitle = "Click a title for more info"
 
 # Order that this section will appear in.
 weight = 10
@@ -18,7 +18,7 @@ weight = 10
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 1
+list_format = 4
 
 # Filter by publication type.
 # -1: Any
@@ -31,4 +31,3 @@ list_format = 1
 #  6: Book chapter
 publication_type = "-1"
 +++
-

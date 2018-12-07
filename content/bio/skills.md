@@ -36,7 +36,7 @@ weight = 7
 [[feature]]
   icon = "pen-nib"
   icon_pack = "fas"
-  name = "Journalism"
+  name = "Journalist"
   description = ""
 
 +++

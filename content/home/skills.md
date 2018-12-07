@@ -7,36 +7,40 @@ date = 2017-09-20T00:00:00
 active = true
 
 title = "Skills"
-subtitle = ""
+subtitle = "Under construction"
 
 # Order that this section will appear in.
-weight = 7
+weight = 20
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # Available icon packs and icons:
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+
+
+
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
+  description = ""
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "pen-nib"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Journalist"
+  description = ""
+
+[[feature]]
+  icon = "microphone-alt"
+  icon_pack = "fas"
+  name = "Speaker"
+  description = ""
 
 +++

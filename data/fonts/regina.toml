@@ -3,13 +3,22 @@
 name = "regina"
 
 # Optional Google font URL
-google_fonts = "Cabin:400,500|Roboto+Mono|Cabin+Condensed:600"
+google_fonts = "Lato:400,700|Roboto+Mono|Alegreya:400|Cabin:400,500"
 
 # Font families
-heading_font = "Cabin Condensed"
-body_font = "Cabin"
-nav_font = "Cabin"
+heading_font = "Alegreya"
+body_font = "Lato"
+nav_font = "Alegreya"
 mono_font = "Roboto Mono"
+
+# # Optional Google font URL
+# google_fonts = "Cabin:400,500|Roboto+Mono|Cabin+Condensed:600"
+#
+# # Font families
+# heading_font = "Cabin Condensed"
+# body_font = "Cabin"
+# nav_font = "Cabin"
+# mono_font = "Roboto Mono"
 
 # Font size
 font_size = "20"

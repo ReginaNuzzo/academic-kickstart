@@ -1,10 +1,10 @@
 +++
 # Projects widget.
 widget = "projects"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Writing"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -49,4 +49,3 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
-

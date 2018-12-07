@@ -53,14 +53,14 @@ enableGitInfo = false
 
   # Your details.
   name = "Regina Nuzzo"
-  role = "Professor and Journalist"
+  role = "Stats Professor and Science Journalist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "Gallaudet University", url = "https://my.gallaudet.edu/regina-nuzzo" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Reg-collar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "Regina.Nuzzo@gmail.com"
@@ -103,7 +103,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "regina"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -193,12 +193,12 @@ enableGitInfo = false
   #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
   #   translated.
   publication_types = [
-    'Uncategorized',  # 0
-    'Conference paper',  # 1
-    'Journal article',  # 2
-    'Manuscript',  # 3
-    'Report',  # 4
-    'Book',  # 5
+    'Refeered Papers',  # 0
+    'Stats Articles for Journals at the Trade Press',   # 1
+    'Stats Articles for the Popular Press', # 2
+    'Other Science Articles for the Popular Press',  # 3
+    'Other Science Articles for Journals and the Trade Press',  # 4
+    'Other Writing',  # 5
     'Book section'  # 6
   ]
 
@@ -278,10 +278,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+  [[params.social]]
+     icon = "cv"
+     icon_pack = "ai"
+     link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -296,20 +296,20 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Bio"
-  url = "/bio/"
-  weight = 2
+# [[menu.main]]
+#   name = "Skills"
+#   url = "#skills"
+#   weight = 4
 
 [[menu.main]]
   name = "Writing"
-  url = "#writing"
-  weight = 3
+  url = "/pubs/"
+  weight = 2
 
 [[menu.main]]
     name = "Talks"
     url = "#talks"
-    weight = 4
+    weight = 3
 
 # [[menu.main]]
  # name = "Projects"
@@ -328,10 +328,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+[[menu.main]]
+    name = "CV"
+    url = "files/cv.pdf"
+    weight = 5
 
 # Search.
 [params.search]

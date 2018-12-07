@@ -36,9 +36,25 @@ weight = 5
 +++
 
 # Background
+I'm a freelance science writer and professor teaching statstics in Washington,
+DC. At the age of 13 I started tutoring in math and science and pretty much
+haven't stopped since. I studied engineering as an undergraduate and got my [PhD
+in Statistics from Stanford University](https://statistics.stanford.edu). Right
+now I'm teaching statistics at various levels in American Sign Language at
+[Gallaudet University](https://www.gallaude3t.edu), the world's only liberal
+arts college for deaf and hard-of-hearing students. I use a lot of active
+learning and creative pedagogy in my courses.
 
-I'm a professor teaching statistics in American Sign Language at Gallaudet University in Washington, DC. At the age of 13 I started tutoring and haven't stopped teaching since. I studied engineering as an undergraduate and got my [PhD in Statistics from Stanford University](https://statistics.stanford.edu).
+I also did a graduate program in [Science Communication at the University of
+California-Santa Cruz](https://scicom.ucsc.edu). My specialty in science
+journalism centers around data, probability, and statistics. My work has
+appeared in _Nature_, _Los Angeles Times_, _New York Times_, _Reader’s Digest_,
+_New Scientist_, and _Scientific American_, among others. My [feature article on
+P-values in _Nature_] (https://www.nature.com/news/scientific-method-statistical-errors-1.14700)
+earned the American Statistical Association’s 2014 Excellence in Statistical
+Reporting Award.
 
-I also did a graduate program in [Science Communication at the University of California-Santa Cruz](https://scicom.ucsc.edu). My specialty in science journalism centers around data, probability, and statistics. My work has appeared in _Nature_, _Los Angeles Times_, _New York Times_, _Reader’s Digest_, _New Scientist_, and _Scientific American_, among others.
-
-My [feature article on P-values in _Nature_](https://www.nature.com/news/scientific-method-statistical-errors-1.14700) earned the American Statistical Association’s 2014 Excellence in Statistical Reporting Award. In addition to writing I also speak to a variety of audiences about cognitive bias and abuses in data analysis, “human-centered quantitative communication,” and the importance of properly and creatively framing statistical ideas.
+When I'm not writing or teaching I'm often speaking to a variety of audiences
+about fun topics -- like why we just can't understand p-values, abuses and
+misuses of statistics, all the ways our brain fools us during data analysis, and
+the _right_ (and wrong) ways to communicate quantitative information.
