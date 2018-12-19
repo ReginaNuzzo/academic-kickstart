@@ -5,14 +5,14 @@ widget = "publications"
 active = false
 date = 2016-04-20T00:00:00
 
-title = "Recent Writing"
+title = "Other Publications"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 7
 
 # List format.
 #   0 = Simple
@@ -34,5 +34,9 @@ list_format = 4
 publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = false
+exclude_selected = true
 +++
+Under construction.
+<br>
+See the [CV](/files/cv.pdf) for a complete list.
+<hr>
