@@ -5,25 +5,50 @@ name = "regina"
 light = true
 
 # Primary
-primary ="#ee5863"
+primary ="#2b1c24"
 primary_light = "#ee5863"
 primary_dark = "#ee5863"
 
 # Links
-link = "#434d6e"
-link_hover = "#84d6d3"
+link = "#2a4e6b"
+link_hover = "#331425"
 
 # Links
 #link = "#ee5863"
 #link_hover = "#343c56"
 
 # Menu
-menu_primary = "#343c56"
+menu_primary = "#3b4c5a"
 menu_text = "#fff"
-menu_text_active = "#84d6d3"
+menu_text_active = "#331425"
 menu_title = "#fff"
 
 # Backgrounds
-background = "#efede8"
-home_section_odd = "#efede8"
-home_section_even = "#efede8"
+background = "#fcfafb"
+home_section_odd = "#afbe9c"
+home_section_even = "#fcfafb"
+
+#
+# # Primary
+# primary ="#ee5863"
+# primary_light = "#ee5863"
+# primary_dark = "#ee5863"
+#
+# # Links
+# link = "#56638e"
+# link_hover = "#84d6d3"
+#
+# # Links
+# #link = "#ee5863"
+# #link_hover = "#343c56"
+#
+# # Menu
+# menu_primary = "#344b72"
+# menu_text = "#fff"
+# menu_text_active = "#84d6d3"
+# menu_title = "#fff"
+#
+# # Backgrounds
+# background = "#efede8"
+# home_section_odd = "#b4c3dd"
+# home_section_even = "#efede8"

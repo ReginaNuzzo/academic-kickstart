@@ -13,7 +13,7 @@ authors = ['Regina Nuzzo']
 
 # Abstract and optional shortened version.
 abstract = "Communicating statistics and data science to lay audiences is not easy. Yet engaging with a variety of audiences -- policymakers, journalists, funders, experts in other fields, the public, and others -- and getting them to truly understand quantitative information has never been more important than it is today. The problem is that we don’t have a good model for this. Science communication, for example, is a well established field with an assortment of tools and tricks, some of which we can borrow and adapt. But, better yet, we have both the need and the opportunity to develop a new model for ourselves: “quantitative communication,” which encompasses such elements as quantification, uncertainty, evidentiality, expectation, and surprise. This talk will use examples to discuss thoughts on this work in progress."
-abstract_short = "This talk will discuss a new model of engagement: human-centered quantitative communication."
+abstract_short = "This talk discusses a new model of engagement: human-centered quantitative communication."
 
 # Name of event and optional event URL.
 event = "University of Washington Biostatistics Seminar"
@@ -31,7 +31,7 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["quantcomm"]
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -46,7 +46,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "talk/uwashington/NUZZO-WASHINGTON-2018-OCT04-PUBLIC.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""

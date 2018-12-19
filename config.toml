@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://www.reginanuzzo.com/"
 
 # Title of your site
 title = "News o' Regina"
@@ -52,7 +52,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Regina Nuzzo"
+  name = "Regina Nuzzo, Ph.D."
   role = "Stats Professor and Science Journalist"
 
   # Organizations/Affiliations.
@@ -63,8 +63,9 @@ enableGitInfo = false
   avatar = "Reg-collar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "Regina.Nuzzo@gmail.com"
+
   address = ""
+  email = "Regina.Nuzzo@Gallaudet.edu"
   office_hours = ""
   phone = ""
   skype = ""
@@ -112,7 +113,7 @@ enableGitInfo = false
   font = "regina"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Regina Nuzzzo, Ph.D."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
@@ -194,7 +195,7 @@ enableGitInfo = false
   #   translated.
   publication_types = [
     'Refeered Papers',  # 0
-    'Stats Articles for Journals at the Trade Press',   # 1
+    'Stats Articles for Journals and the Trade Press',   # 1
     'Stats Articles for the Popular Press', # 2
     'Other Science Articles for the Popular Press',  # 3
     'Other Science Articles for Journals and the Trade Press',  # 4
@@ -205,7 +206,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -296,25 +297,25 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-# [[menu.main]]
-#   name = "Skills"
-#   url = "#skills"
-#   weight = 4
+[[menu.main]]
+  name = "Skills"
+  url = "#skills"
+  weight = 5
 
 [[menu.main]]
   name = "Writing"
-  url = "/pubs/"
+  url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-    name = "Talks"
+    name = "Talks & Workshops"
     url = "#talks"
     weight = 3
 
-# [[menu.main]]
- # name = "Projects"
- # url = "#projects"
- # weight = 4
+[[menu.main]]
+ name = "Areas of Interest"
+ url = "#projects"
+ weight = 4
 
 #[[menu.main]]
 #  name = "Tutorials"
@@ -324,14 +325,14 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
     name = "CV"
     url = "files/cv.pdf"
-    weight = 5
+    weight = 6
 
 # Search.
 [params.search]
