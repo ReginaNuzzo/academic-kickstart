@@ -6,13 +6,13 @@ active = false
 date = 2016-04-20T00:00:00
 
 title = "Other Publications"
-subtitle = ""
+subtitle = "Click below for more"
 
 # Order that this section will appear in.
-weight = 20
+weight = 40
 
 # Number of publications to list.
-count = 7
+count = 5
 
 # List format.
 #   0 = Simple
@@ -20,7 +20,7 @@ count = 7
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 4
+list_format = 3
 
 # Filter by publication type.
 # -1: Any
