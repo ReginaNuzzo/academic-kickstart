@@ -4,8 +4,8 @@ widget = "talks"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Upcoming & Recent Talks"
-subtitle = "Under construction"
+title = "Upcoming & Recent Talks & Workshops"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 15
@@ -22,3 +22,8 @@ list_format = 2
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
+
+Under construction.
+<br>
+See the [CV](/files/cv.pdf) for a complete list.
+<hr>
