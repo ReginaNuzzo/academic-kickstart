@@ -61,7 +61,6 @@ description = "I try to give my students and the journalists I consult for an ap
 icon = "assistive-listening-systems"
 icon-pack = "fab"
 name = "Bionic Human"
-description = "I use a cochlear implant, which I've affectionately named 'Tiny Brain Computer,' ('Tiny' for short). Without it, I'm deaf. I got Tiny as an adult, after I'd already been missing a sizeable chunk of my hearing since birth. My brain has had to learn how to hear many sounds for the first time. Adult neuroplasticity is amazing."
-
+description = "I use a cochlear implant, which I've affectionately named \"Tiny,\" short for \"Tiny Brain Computer.\"  Without it, I'm deaf. I got Tiny as an adult, after I'd already been missing a sizeable chunk of my hearing since birth. So my brain has had to learn how to hear many sounds for the first time. Adult neuroplasticity is amazing. Curious? <a href=\"/ci-diary/\">You can read some descriptions here.</a> "
 
 +++

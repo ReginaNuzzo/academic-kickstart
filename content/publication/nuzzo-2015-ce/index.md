@@ -8,5 +8,6 @@ selected = true
 publication = "*Scientific American*"
 url_custom = [{name = "External Link", url = "https://www.scientificamerican.com/article/scientists-perturbed-by-loss-of-stat-tools-to-sift-research-fudge-from-fact/"}]
 projects = ["p-values"]
+
 +++
 A news piece for Scientific American. [Read it here.](https://www.scientificamerican.com/article/scientists-perturbed-by-loss-of-stat-tools-to-sift-research-fudge-from-fact/)

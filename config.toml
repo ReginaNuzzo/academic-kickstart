@@ -334,6 +334,11 @@ enableGitInfo = false
     url = "files/cv.pdf"
     weight = 6
 
+# [[menu.main]]
+#     name = "Etc"
+#     url = "CI/_index.md"
+#     weight = 8
+
 # Search.
 [params.search]
   # Search provider:
