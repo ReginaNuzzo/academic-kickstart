@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "Gallaudet University", url = "https://my.gallaudet.edu/regina-nuzzo" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Reg-collar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Regina-1.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
 
